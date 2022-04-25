@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SecondComingFan24
-- 👀 I’m interested in CSS and p5.JS
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m @SecondComingFan24 (known as Gold Chip on Scratch)
+- 👀 I’m interested in CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any thing involving simple HTML
-- 📫 How to reach me? Well, just send an email to chloecat245@gmail.com
+- 📫 How to reach me? Just comment on my Scratch profile (GoldenBunnyDorito)
 
 <!---
 SecondComingFan24/SecondComingFan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
