@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SecondComingFan24 (known as Gold Chip on Scratch)
-- 👀 I’m interested in CSS
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any thing involving simple HTML
-- 📫 How to reach me? Just comment on my Scratch profile (GoldenBunnyDorito)
+![Banner](https://imagizer.imageshack.com/img922/3138/HTapB2.png)
+# Welcome to my profile!
+Hi there, I'm Golden Dorito. I like to call myself that, because I just do, don't ask why.
+## Hobbies and Interests
+I like coding on Scratch in my free time. Why do I have a github account despite having almost zero knowledge about programming? I just do, don't ask why. 😝
+Check out my scratch account [here](https://scratch.mit.edu/users/GoldenBunnyDorito)
 
 <!---
 SecondComingFan24/SecondComingFan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
